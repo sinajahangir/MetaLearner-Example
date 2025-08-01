@@ -27,9 +27,13 @@ Validation: 2011-05-13 to 2014-11-06
 
 Testing: 2014-11-06 to 2020-12-31
 
-# Repo
+# Repository
 
 The repo contains sample code for model development and analysis. The original data provided is also shared here. The code for TFM is available: https://github.com/sinajahangir/Foundation-Models
+
+The DL weights are provided
+
+All the models were developed in Python 3.11, using PyTorch and trained on GPU-enabled systems, including the NVIDIA V100 node on the Graham cluster (Digital Research Alliance Canada) and a server with an NVIDIA RTX 6000 Ada Generation GPU.
 
 <img width="870" height="871" alt="image" src="https://github.com/user-attachments/assets/f5d8ac26-5b8b-4956-823a-38ac0d610c28" />
 
