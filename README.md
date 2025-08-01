@@ -3,6 +3,9 @@ Sample code for developing a meta-learner for hydrological prediction
 
 Streamflow Prediction for Rio Puerco, NM
 
+<img width="784" height="765" alt="image" src="https://github.com/user-attachments/assets/4534e35e-affb-48b1-bd58-b928dcb83af1" />
+
+
 This project focuses on developing a robust streamflow prediction model for the Rio Puerco basin in New Mexico, leveraging a meta-learning approach that combines multiple prediction methods.
 
 # Methodology
