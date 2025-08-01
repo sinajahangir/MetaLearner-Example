@@ -1,6 +1,9 @@
 # MetaLearner-Example
 Sample code for developing a meta-learner for hydrological prediction
 
+<img width="505" height="296" alt="image" src="https://github.com/user-attachments/assets/19c27d0c-aea3-488b-9eea-8c3618f934af" />
+
+
 Streamflow Prediction for Rio Puerco, NM
 
 <img width="784" height="765" alt="image" src="https://github.com/user-attachments/assets/4534e35e-affb-48b1-bd58-b928dcb83af1" />
